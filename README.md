@@ -4,7 +4,7 @@
 A Web Music Player
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, Redux, TailwindCSS and more.
 
 **Server:** Firebase
 
