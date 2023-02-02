@@ -39,7 +39,7 @@ Start the server
 ## Refrences
 
  - React - https://reactjs.org/docs/getting-started.html
- - Chakra UI - https://github.com/matiassingers/awesome-readme)
+ - Chakra UI - https://github.com/matiassingers/awesome-readme
  - React JS Tutorials - https://www.javatpoint.com/reactjs-tutorial
  - Firebase - https://firebase.google.com/
  - Spotify’s Web Player - https://open.spotify.com/
