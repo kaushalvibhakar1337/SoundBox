@@ -1,7 +1,7 @@
 
 # SoundBox
 
-A Web Music Player
+A Web Music Player!
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS and more.
